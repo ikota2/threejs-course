@@ -1,8 +1,6 @@
 import './style.css'
 import * as THREE from 'three'
 
-console.log(THREE)
-
 const scene = new THREE.Scene();
 
 const geometry = new THREE.BoxGeometry(1,1,1)
